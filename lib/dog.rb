@@ -12,5 +12,6 @@ end
 def breed
   @breed
 end
-
 end
+
+fido.breed
