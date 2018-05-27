@@ -15,7 +15,4 @@ end
 end
 
 fido = Dog.new
-fido = "Fido"
-
-pug = Dog.new
-pug = "Pug"
+fido.breed 
