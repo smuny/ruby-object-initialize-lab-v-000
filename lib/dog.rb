@@ -13,3 +13,5 @@ def breed
   @breed
 end
 end
+
+Dog.new =
