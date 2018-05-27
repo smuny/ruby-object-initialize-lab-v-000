@@ -15,4 +15,4 @@ end
 end
 
 fido = Dog.new
-fido
+fido = "Fido"
