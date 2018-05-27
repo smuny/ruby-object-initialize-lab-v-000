@@ -12,5 +12,5 @@ end
 def breed
   @breed
 end
-Dog.new(breed) == "Mutt"
+fido = Dog.new
 end
