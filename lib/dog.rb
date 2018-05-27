@@ -14,4 +14,4 @@ def breed
 end
 end
 
-Dog.new =
+fido = Dog.new
