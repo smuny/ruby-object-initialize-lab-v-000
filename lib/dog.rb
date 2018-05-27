@@ -18,4 +18,4 @@ fido = Dog.new
 fido = "Fido"
 
 pug = Dog.new
-pu
+pug = "Pug"
