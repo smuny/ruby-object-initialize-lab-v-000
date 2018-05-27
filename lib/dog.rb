@@ -10,4 +10,4 @@ class Dog
   end
 end
 
-breed == "Mutt"
+breed = "Mutt"
