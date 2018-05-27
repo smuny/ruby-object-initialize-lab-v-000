@@ -12,6 +12,5 @@ end
 def breed
   @breed
 end
-fido = Dog.new
-end
+
 end
