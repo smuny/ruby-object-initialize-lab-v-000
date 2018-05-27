@@ -13,5 +13,3 @@ def breed
   @breed
 end
 end
-
-fido.breed = "Mutt"
